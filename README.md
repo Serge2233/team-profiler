@@ -1,28 +1,27 @@
 # Team Profile Generator
     
 #### Table of Contents
-1. [Project Description](#project-description)
-2. [Installation Instructions](#installation-instructions)
-3. [Usage Information](#usage-information)
-4. [Contributor Guidelines](#contributor-guidelines)
-5. [Code of Conduct](#code-of-conduct)
+1. [Application Video](#application-video)
+2. [Description](#description)
+3. [Installation Instructions](#installation-instructions)
+4. [Usage Information](#usage-information)
+5. [Contributor Guidelines](#contributor-guidelines)
 6. [Test Instructions](#test-instructions)
 7. [License](#license)
 8. [Questions](#questions)
 ## Application Video
-* (https://drive.google.com/file/)
-## Project Description
-* This is a command line application that generates a read me file from a users input using the inquirer package
+* (https://drive.google.com/file/d/1gh4N2kO_rQiNvnu0tE9PRKo_Z49gY32C/view?usp=sharing)
+* ![alt text](https://i.imgur.com/8IwwCxh.png)
+## Description
+* This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page    with a style sheet. This project demonstrates use of OOP and TDD using Jest.
 ## Installation Instructions
 * Install NPN to acquire inquirer package
 ## Usage Information
-* Generates a read me file
+* Use inquirer from your command line to answer questions about your project.
 ## Contributor Guidelines
-* Guidlines details are discussed under the code of conduct section
-## Code of Conduct
-* [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
+* Contributors should read the installation section.
 ## Test Instructions
-* No test required
+* Run npm test to run Jest for tests on constructors.
 ## License
 * MIT License 
 ## Questions
